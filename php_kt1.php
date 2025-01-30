@@ -24,4 +24,4 @@ while (true) {
         $bye_count = 0; 
     }
 }
-?>
+
